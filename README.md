@@ -16,7 +16,7 @@ Manav Sipariş Sisteminde şifreli bir şekilde kayıt olup daha sonra giriş ya
    Kullanıcı Adı : 284274
    Parola : PHPMYSQL
  
-## Projede  Yapılanlar Fonsiyonlar
+## Projede  Yapılan Fonsiyonlar
 - Ürün Ekleme
 - Ürün Listeleme
 - Market Listeleme
